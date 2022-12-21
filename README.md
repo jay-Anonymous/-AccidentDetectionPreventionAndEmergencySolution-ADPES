@@ -45,26 +45,26 @@ Road accidents have become a significant concern in Kenya, with high-speed drivi
 
 | S/N | Name/Model | Quantity | Type | Price | Image | Description
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-1 | Arduino UNO | 1 | Microcontroller | 750/= | ![]| Arduino Uno is a microcontroller board based on the ATmega328P (datasheet).
-2 | 4WD Car Set | 1 | Car Chassis Kit | 550/= | !| Four-wheel drive (4WD) is a vehicle system that powers the front and rear wheel axles at the same speed to help gain traction, according to Car and Driver.
-3 | L298N | 1 | Motor Driver | 140/= |  | The L298N Motor Driver is a controller that uses an H-Bridge to easily control the direction and speed of up to 2 DC motors.
-4 | SIM800L | 1 | Module | 280-400/= | | SIM800L GSM/GPRS module is a miniature GSM modem, which can be integrated into a great number of IoT projects.
-5 | GPS NEO 6M | 1 | Module | 600/= |  | The NEO-6M module includes one configurable UART interface for serial communication, but the default UART (TTL) baud rate here is 9,600.
-6 | MQ3 | 1 | Sensor | 160/= | | Alcohol Sensor Module - MQ3. 4753. This module is made using Alcohol Gas Sensor MQ3. 
-7 | Ultrasonic| 1 | Sensor | 100/= | | An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
-8 | PIR | 1 | Sensor | 100/= |  | PIR sensors allow you to sense motion, almost always used to detect whether a human has moved in or out of the sensors range.
-9 | HC-05 | 1 | Module | 270/= |  | The HC-05 is a popular module which can add two-way (full-duplex) wireless functionality to your projects.
-10 | Bazzer | 1 | piezo | 15/= |  | A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short).
-11 | Vibrator | 1 | Module | 75/= | | A vibration sensor is a device that measures the amount and frequency of vibration in a given system, machine, or piece of equipment. 
-12 | Antena | 1 | Module | 90/= || Antenna for SIM800L GSM Module.
-13 | 3.7v Battery | 3 | Module | 150/= |  | 18650 3.7 Volt lithium-ion rechargeable batteries are cylindrical batteries used in mainly for laptop battery packs, telephones, electronic cigarettes, flashlights and cordless power tools.
-14 | 1x Battery Case | 1 | Module | 25/= |  | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
-15 | 2x Battery Case | 1 | Module | 30/= |  | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
-16 | 2x Battery Charger | 1 | Module | 120/= | | Proper charging of Li-ion batteries enables the best performance and longest operational life to be obtained.
-17 | Soldering Iron | 1 | Module | 150/= |  | Spool of solder. 1.6mm. A soldering iron is a hand tool used in soldering.
-18 | Soldering LID | 1 | Module | 20/= |  | Soldering Lid.
-19 | Rojon | 1 | Module | 8/= | | Soldering Rojon.
-20 | Jumper Wire | 3 | Cable | 180/= |  | RF jumper cables - Jumper cables is a smaller and more bendable corrugated cable which is used to connect antennas and other components to network cabling.
+1 | Arduino UNO | 1 | Microcontroller | | ![]| Arduino Uno is a microcontroller board based on the ATmega328P (datasheet).
+2 | 4WD Car Set | 1 | Car Chassis Kit | = | !| Four-wheel drive (4WD) is a vehicle system that powers the front and rear wheel axles at the same speed to help gain traction, according to Car and Driver.
+3 | L298N | 1 | Motor Driver |  |  | The L298N Motor Driver is a controller that uses an H-Bridge to easily control the direction and speed of up to 2 DC motors.
+4 | SIM800L | 1 | Module | = | | SIM800L GSM/GPRS module is a miniature GSM modem, which can be integrated into a great number of IoT projects.
+5 | GPS NEO 6M | 1 | Module |  |  | The NEO-6M module includes one configurable UART interface for serial communication, but the default UART (TTL) baud rate here is 9,600.
+6 | MQ3 | 1 | Sensor | | | Alcohol Sensor Module - MQ3. 4753. This module is made using Alcohol Gas Sensor MQ3. 
+7 | Ultrasonic| 1 | Sensor | | | An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves.
+8 | PIR | 1 | Sensor |  |  | PIR sensors allow you to sense motion, almost always used to detect whether a human has moved in or out of the sensors range.
+9 | HC-05 | 1 | Module | |  | The HC-05 is a popular module which can add two-way (full-duplex) wireless functionality to your projects.
+10 | Bazzer | 1 | piezo | |  | A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric (piezo for short).
+11 | Vibrator | 1 | Module |  | | A vibration sensor is a device that measures the amount and frequency of vibration in a given system, machine, or piece of equipment. 
+12 | Antena | 1 | Module | || Antenna for SIM800L GSM Module.
+13 | 3.7v Battery | 3 | Module |  |  | 18650 3.7 Volt lithium-ion rechargeable batteries are cylindrical batteries used in mainly for laptop battery packs, telephones, electronic cigarettes, flashlights and cordless power tools.
+14 | 1x Battery Case | 1 | Module | |  | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
+15 | 2x Battery Case | 1 | Module | |  | The primary function of a battery holder is to keep cells fixed in place safely and securely while conveying power from the batteries to the device in question.
+16 | 2x Battery Charger | 1 | Module | | | Proper charging of Li-ion batteries enables the best performance and longest operational life to be obtained.
+17 | Soldering Iron | 1 | Module | |  | Spool of solder. 1.6mm. A soldering iron is a hand tool used in soldering.
+18 | Soldering LID | 1 | Module | |  | Soldering Lid.
+19 | Rojon | 1 | Module | | | Soldering Rojon.
+20 | Jumper Wire | 3 | Cable |  |  | RF jumper cables - Jumper cables is a smaller and more bendable corrugated cable which is used to connect antennas and other components to network cabling.
 
 
 
